@@ -1,0 +1,146 @@
+[
+  {
+    "image": "https://pngimg.com/uploads/google_maps_pin/google_maps_pin_PNG26.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 3,
+    "description": "Google Maps is a comprehensive, world-leading navigation and mapping application, providing detailed geographical information globally. It allows users to **search for locations, get turn-by-turn directions** for driving, walking, cycling, and public transit, and explore the world via satellite imagery, aerial photography, and street view. The app provides **real-time traffic updates**, accident reports, and estimates for travel times, dynamically rerouting users to avoid congestion. A critical feature is its ability to find and display information about millions of points of interest, including businesses, restaurants, landmarks, and gas stations, often complete with operating hours, contact details, photos, and user reviews. Users can download maps for **offline use**, a crucial feature for navigating without an internet connection. The 'Explore' tab highlights local events and recommended places, acting as a personal guide to a city. It integrates smoothly with other Google services, such as Gmail and Calendar, making it an indispensable tool for daily commuting and travel planning. Recent updates have focused on accessibility features, including public transit schedules and wheelchair-accessible routes, aiming for inclusive navigation for all users. Its unparalleled coverage and frequent updates cement its position as the de facto standard for digital navigation.",
+    "size": 180,
+    "reviews": 6800000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "5 star", "count": 5100000 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/vector-tiktok-social-media-logo_1093524-451.jpg?semt=ais_hybrid&w=740&q=80",
+    "title": "TikTok",
+    "companyName": "TikTok Ltd.",
+    "id": 9,
+    "description": "TikTok is the premier platform for **short-form mobile videos**, providing an endless stream of personalized, entertaining, and creative content. Its revolutionary 'For You' page (FYP) uses a highly advanced algorithm to curate content, making discovery the primary mode of interaction. The app empowers users with a vast array of easy-to-use editing tools, effects, and a massive music library, enabling anyone to become a creator. Content is diverse, spanning dance challenges, lip-syncs, comedy sketches, educational content, and trending topics. Its influence on global music, fashion, and internet culture is profound, setting new viral trends daily. The app is designed for continuous scrolling and rapid consumption, making it highly addictive and a major competitor to established social platforms. It is particularly popular among younger generations but boasts a rapidly expanding user base across all demographics.",
+    "size": 280,
+    "reviews": 13000000,
+    "ratingAvg": 4.5,
+    "downloads": 4000000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 9800000 }
+    ]
+  },
+  {
+    "image": "https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-01-512.png",
+    "title": "WhatsApp",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 7,
+    "description": "WhatsApp Messenger is a **free, cross-platform messaging and Voice over IP (VoIP) service** that allows users to send text messages, make voice and video calls, and share images, documents, user locations, and other media. It is renowned for its **end-to-end encryption** (via the Signal Protocol), ensuring private communication between users. The app operates using an internet connection (Wi-Fi or cellular data) and is extremely popular globally, particularly in non-US markets. Key features include group chats, voice messages, 'Status' updates (similar to Instagram Stories), and the 'WhatsApp Business' tool for small and large enterprises. Its simplicity and reliability have made it a daily communication tool for billions of people worldwide. Unlike traditional SMS, it avoids carrier charges by using the internet.",
+    "size": 150,
+    "reviews": 16000000,
+    "ratingAvg": 4.7,
+    "downloads": 8000000000,
+    "ratings": [
+      { "name": "1 star", "count": 350000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 1650000 },
+      { "name": "5 star", "count": 13500000 }
+    ]
+  },
+  {
+    "image": "https://static.vecteezy.com/system/resources/previews/067/065/640/non_2x/capcut-logo-square-rounded-capcut-logo-capcut-logo-free-download-free-png.png",
+    "title": "CapCut - Video Editor",
+    "companyName": "Bytedance Pte. Ltd.",
+    "id": 18,
+    "description": "CapCut is a **free all-in-one video editing app** highly favored by social media creators, particularly for TikTok and Instagram Reels. Developed by the same company as TikTok, it offers a suite of professional-grade features including keyframe animation, green screen (Chroma key), and stabilization, alongside basic tools like cutting, trimming, and speed control. Its extensive library of trendy music, sound effects, filters, and text templates makes it easy for users to create viral-ready content. The app is known for being powerful yet remarkably user-friendly, allowing quick, high-quality video production directly on a mobile device. Its free access to premium tools has driven its rapid rise in popularity.",
+    "size": 350,
+    "reviews": 1100000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 40000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 60000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 820000 }
+    ]
+  },
+  {
+    "image": "https://images.icon-icons.com/2699/PNG/512/netflix_logo_icon_170919.png",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 4,
+    "description": "Netflix is the dominant global subscription-based streaming service offering an extensive library of **movies, TV shows, documentaries, and original content**. The app provides a personalized viewing experience, using a sophisticated recommendation engine to suggest titles based on viewing history, ratings, and genre preferences. Users can create multiple profiles, each with its own tailored recommendations and viewing history. Key features include the ability to **download content for offline viewing**, essential for traveling or areas with poor internet connectivity, and flexible playback options, including different streaming qualities and subtitle choices. Netflix has become renowned for its high-quality, exclusive 'Netflix Originals,' covering all genres and attracting top-tier talent. The service is accessible across a vast array of devices, with the mobile app being a primary method of consumption. It offers various subscription tiers, which determine the number of simultaneous streams and the maximum video quality (SD, HD, or Ultra HD/4K). Its commitment to original, diverse, and international content keeps it at the forefront of the streaming wars, constantly expanding its catalog and global reach.",
+    "size": 130,
+    "reviews": 8500000,
+    "ratingAvg": 4.7,
+    "downloads": 3000000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 250000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 6700000 }
+    ]
+  },
+  {
+    "image": "https://static.vecteezy.com/system/resources/previews/023/741/147/non_2x/discord-logo-icon-social-media-icon-free-png.png",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 19,
+    "description": "Discord is a versatile **VoIP, instant messaging, and digital distribution platform** designed for creating communities. Originally built for gamers, it has expanded to host a wide variety of public and private servers ('servers') for everything from study groups to fan communities and corporate teams. It allows users to communicate via voice calls, video calls, text messaging, and media sharing. Each server can be structured with multiple text and voice channels for different topics. The mobile app maintains feature parity with its desktop counterpart, providing push-to-talk functionality and seamless transitions between channels. Its focus on building private, structured communities sets it apart from traditional social media, making it a powerful tool for niche and large-scale group communication.",
+    "size": 150,
+    "reviews": 5000000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 90000 },
+      { "name": "3 star", "count": 180000 },
+      { "name": "4 star", "count": 710000 },
+      { "name": "5 star", "count": 3900000 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkQZwfIF1UdjlMBtjg4fmlfdGU0suXMgG5qA&s",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "id": 11,
+    "description": "Amazon Shopping is the mobile gateway to the world's largest online marketplace. The app allows users to **browse, search, and purchase millions of products** and services, manage their orders, and track shipments in real-time. It features personalized recommendations, a robust search function, and easy access to customer reviews and ratings. Key functions include 'Amazon Prime' video streaming and music access, 'Buy Now' one-click purchasing, and mobile-specific features like image search (Snap & Search). It's designed for convenience, allowing users to shop securely from virtually anywhere, at any time. The app frequently features daily deals, personalized coupon codes, and easy returns, making it an essential utility for modern e-commerce.",
+    "size": 160,
+    "reviews": 5500000,
+    "ratingAvg": 4.8,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 50000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 750000 },
+      { "name": "5 star", "count": 4500000 }
+    ]
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 1,
+    "description": "Instagram is a globally recognized social media application centered around visual content, allowing users to **create, edit, and share photos and short videos** with their followers. The platform offers a diverse range of features including **Stories**, which are 24-hour temporary posts, **Reels**, a dedicated space for short-form, entertaining video clips, and **Live** videos for real-time interaction. It acts as a powerful tool for personal expression, connecting with friends, and following interests. Beyond social networking, Instagram has evolved into a vital platform for **e-commerce, influencer marketing, and brand building**, allowing businesses to showcase products and engage with a global customer base directly through in-app shopping features and targeted advertisements. The Explore page uses sophisticated algorithms to curate content based on user engagement, making content discovery a core part of the experience. It is constantly updated with new filters, effects, and editing tools to encourage creative output. The shift to prioritizing video content, particularly with Reels, marks its ongoing adaptation to modern social media trends. Privacy and messaging features, including direct messaging (DMs) and restricted lists, ensure users can manage their social circles and communication securely. The app's minimalistic interface is designed for intuitive scrolling and easy navigation between the main feed, stories bar, Reels tab, and a dedicated profile section. This blend of creative tools and social features has cemented Instagram's status as a leading mobile application worldwide.",
+    "size": 260,
+    "reviews": 16500000,
+    "ratingAvg": 4.8,
+    "downloads": 5600000000,
+    "ratings": [
+      { "name": "1 star", "count": 280000 },
+      { "name": "2 star", "count": 170000 },
+      { "name": "3 star", "count": 250000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 14300000 }
+    ]
+  }
+]
